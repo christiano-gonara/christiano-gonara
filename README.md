@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-<b>Estudante de Engenharia de Software | Python, C & JavaScript</b>
+<b>Estudante de Engenharia de Software | Python, Flask & JavaScript</b>
 </p>
 <p align="justify">
-Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coordenador de Mentoria Acadêmica gerenciando 50 mentores para suporte de 160 calouros. Foco em algoritmos, automação e desenvolvimento backend.
+Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coordenador de Mentoria Acadêmica gerenciando 50 padrinhos para suporte de 160 calouros. Foco em algoritmos, automação e desenvolvimento backend.
 </p>
 
 ## 🖥 Tecnologias e Ferramentas
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,git,github,vscode,linux,windows">
+<img src="https://skillicons.dev/icons?i=py,flask,c,html,css,js,sqlite,git,github,vscode,linux,windows">
 </p>
 
 ## ⏱ Minhas métricas
@@ -37,41 +37,15 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
 
 ## 🚀 Sobre Mim
 - 🎓 **Educação:** Engenharia de Software na PUC Minas.
-- 👥 **Liderança:** Coordenador de Mentoria Acadêmica — gestão de 50 mentores para suporte de 160 calouros, planejamento de workshops e acompanhamento de engajamento.
-- 🐍 **Python:** Web scraping com Scrapy, análise de dados com Pandas, testes com pytest e automação de processos.
-- 🔧 **C:** Sistema de gestão hoteleira com CRUD completo, persistência em arquivos binários e testes automatizados com Munit. Campo Minado com 4 matrizes independentes de estado, revelação recursiva e interface no terminal.
-- ⚙️ **JavaScript:** Dashboard industrial modularizado (PCP Lite) com menu colapsável, CSS Variables, Promise.all() e autenticação. Portal web com CRUD via REST API, sessionStorage e Chart.js.
+- 👥 **Liderança:** Coordenador de Mentoria Acadêmica — gestão de 50 padrinhos (veteranos voluntários) para suporte de 160 calouros, planejamento de cronogramas, workshops e acompanhamento de engajamento.
+- 🌐 **Python + Flask:** Sistema web de gestão de mentoria (Padrinho Track) com banco SQLite, advertências automáticas, dashboard e relatório CSV. Web scraping com Scrapy, análise com Pandas e testes com pytest.
+- 🔧 **C:** Sistema de gestão hoteleira com CRUD completo, persistência em arquivos binários e testes automatizados com Munit. Campo Minado com 4 matrizes independentes de estado e revelação recursiva.
+- ⚙️ **JavaScript:** Dashboard industrial modularizado (PCP Lite) com Promise.all(), KPIs em tempo real e autenticação. Portal web com CRUD via REST API, sessionStorage e Chart.js.
 - 📐 **Foco Técnico:** Algoritmos, estruturas de dados e desenvolvimento backend.
 
-## 📖 Hobbies & Repertório Cultural
-*Busco constantemente expandir meus horizontes através da leitura e das artes, conectando conceitos técnicos com visões de mundo diversificadas.*
-
-- 🎭 **Artes:** Praticante de Teatro e entusiasta de História Geral.
-- 📚 **Leituras Técnicas:** *Entendendo Algoritmos, O Programador Pragmático, O Mítico Homem-Mês e A Única Coisa.*
-- 🏛 **Literatura e Cultura:** Leitor de clássicos como Dostoievski e Tolstói, além de acompanhar o mangá *Kingdom*.
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <p><b>Entendendo Algoritmos</b></p>
-      <img src="imgs/entendendo.jpg" width="120"/>
-    </td>
-    <td align="center">
-      <p><b>O Programador Pragmático</b></p>
-      <img src="imgs/ppragmatico.jpg" width="120"/>
-    </td>
-    <td align="center">
-      <p><b>O Mítico Homem-Mês</b></p>
-      <img src="imgs/mitico.jpg" width="120"/>
-    </td>
-    <td align="center">
-      <p><b>A Única Coisa</b></p>
-      <img src="imgs/unicacoisa.webp" width="120"/>
-    </td>
-  </tr>
-</table>
-</div>
+## 🎭 Diferenciais
+- Teatro e oratória — Escola de Teatro PUC Minas.
+- Leituras técnicas: *Entendendo Algoritmos, O Programador Pragmático, O Mítico Homem-Mês.*
 
 ## ☎ Contato
 
