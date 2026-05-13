@@ -45,7 +45,27 @@ Graduando pela PUC Minas com projetos práticos em Python, C e JavaScript. Coord
 
 ## 🎭 Diferenciais
 - Teatro e oratória — Escola de Teatro PUC Minas.
-- Leituras técnicas: *Entendendo Algoritmos, O Programador Pragmático, O Mítico Homem-Mês.*
+
+## 📚 Leituras Técnicas
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <p><b>Entendendo Algoritmos</b></p>
+      <img src="imgs/entendendo.jpg" width="120"/>
+    </td>
+    <td align="center">
+      <p><b>O Programador Pragmático</b></p>
+      <img src="imgs/ppragmatico.jpg" width="120"/>
+    </td>
+    <td align="center">
+      <p><b>O Mítico Homem-Mês</b></p>
+      <img src="imgs/mitico.jpg" width="120"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## ☎ Contato
 
