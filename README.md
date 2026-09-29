@@ -10,38 +10,38 @@
 
 ## 🖥 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openjdk/4F8F8B" width="50" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/spring/4F8F8B" width="50" alt="Spring"/>
-  <img src="https://cdn.simpleicons.org/python/4F8F8B" width="50" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/flask/4F8F8B" width="50" alt="Flask"/>
-  <img src="https://cdn.simpleicons.org/c/4F8F8B" width="50" alt="C"/>
-  <img src="https://cdn.simpleicons.org/html5/4F8F8B" width="50" alt="HTML"/>
-  <img src="https://cdn.simpleicons.org/css/4F8F8B" width="50" alt="CSS"/>
-  <img src="https://cdn.simpleicons.org/javascript/4F8F8B" width="50" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/sqlite/4F8F8B" width="50" alt="SQLite"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4F8F8B" width="50" alt="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/git/4F8F8B" width="50" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/4F8F8B" width="50" alt="GitHub"/>
-  <img src="assets/vscode.svg" width="50" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/linux/4F8F8B" width="50" alt="Linux"/>
-  <img src="assets/windows.svg" width="50" alt="Windows"/>
+  <img src="assets/tech/java.svg" width="50" alt="Java"/>
+  <img src="assets/tech/spring.svg" width="50" alt="Spring"/>
+  <img src="assets/tech/python.svg" width="50" alt="Python"/>
+  <img src="assets/tech/flask.svg" width="50" alt="Flask"/>
+  <img src="assets/tech/c.svg" width="50" alt="C"/>
+  <img src="assets/tech/html5.svg" width="50" alt="HTML"/>
+  <img src="assets/tech/css3.svg" width="50" alt="CSS"/>
+  <img src="assets/tech/javascript.svg" width="50" alt="JavaScript"/>
+  <img src="assets/tech/sqlite.svg" width="50" alt="SQLite"/>
+  <img src="assets/tech/postgresql.svg" width="50" alt="PostgreSQL"/>
+  <img src="assets/tech/git.svg" width="50" alt="Git"/>
+  <img src="assets/tech/github.svg" width="50" alt="GitHub"/>
+  <img src="assets/tech/vscode.svg" width="50" alt="VS Code"/>
+  <img src="assets/tech/linux.svg" width="50" alt="Linux"/>
+  <img src="assets/tech/windows.svg" width="50" alt="Windows"/>
 </p>
 
 ## 🚀 Projetos em destaque
 
-### [Análise de dados do setor de alimentação](https://github.com/christiano-gonara/teste-abrasel-dados)
+### <a href="https://github.com/christiano-gonara/teste-abrasel-dados" style="color:#D9B38C">Análise de dados do setor de alimentação</a>
 Análise de dados abertos de CNPJ, com pipeline de tratamento, notebook reproduzível e dashboard executivo.
 **Python · Jupyter · DuckDB · Parquet**
 
-### [Padrinho Track](https://github.com/christiano-gonara/padrinho-track)
+### <a href="https://github.com/christiano-gonara/padrinho-track" style="color:#D9B38C">Padrinho Track</a>
 Sistema web para acompanhar o programa de mentoria acadêmica, incluindo presenças, reuniões, advertências, relatórios e certificados.
 **Python · Flask · SQLite/PostgreSQL · pytest**
 
-### [Candidatos TSE](https://github.com/christiano-gonara/candidatosTSE)
+### <a href="https://github.com/christiano-gonara/candidatosTSE" style="color:#D9B38C">Candidatos TSE</a>
 Aplicação web para consultar candidaturas de Minas Gerais, com busca por nome ou número e filtros por cargo e partido.
 **Java · Spring Boot · Thymeleaf · OpenCSV**
 
-### [Web Scraper com Scrapy](https://github.com/christiano-gonara/web-scraper-scrapy)
+### <a href="https://github.com/christiano-gonara/web-scraper-scrapy" style="color:#D9B38C">Web Scraper com Scrapy</a>
 Crawler para coleta e filtragem de dados de e-commerce, com paginação e exportação em JSON.
 **Python · Scrapy**
 
@@ -53,7 +53,7 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
         <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=nightowl"/>
       </td>
       <td>
-        <img alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiano-gonara&theme=nightowl"/>
+        <img alt="Linguagens mais usadas" src="assets/most-commit-language.svg"/>
       </td>
     </tr>
     <tr>
@@ -101,12 +101,12 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
     <tr>
       <td>
         <a href="https://github.com/christiano-gonara" target="_blank" rel="noreferrer">
-          <img src="https://cdn.simpleicons.org/github/4F8F8B" width="50" alt="GitHub"/>
+          <img src="assets/tech/github.svg" width="50" alt="GitHub"/>
         </a>
       </td>
       <td>
         <a href="mailto:christiano.gonara@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/4F8F8B" width="50" alt="Email"/>
+          <img src="assets/tech/gmail.svg" width="50" alt="Email"/>
         </a>
       </td>
       <td>
