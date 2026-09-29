@@ -50,7 +50,7 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
   <table>
     <tr>
       <td>
-        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=nightowl"/>
+        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=nightowl&title_color=D9B38C&text_color=8FD3D0&bg_color=081B2B&border_color=2E5D62&icon_color=D9B38C"/>
       </td>
       <td>
         <img alt="Linguagens mais usadas" src="assets/most-commit-language.svg"/>

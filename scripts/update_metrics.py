@@ -76,15 +76,15 @@ def render_card(languages: dict[str, int]) -> str:
     total = sum(languages.values())
     title = "Top Languages"
     parts = [
-        '<svg role="img" aria-labelledby="title desc" width="495" height="200" viewBox="0 0 495 200" xmlns="http://www.w3.org/2000/svg">',
+        '<svg role="img" aria-labelledby="title desc" width="340" height="200" viewBox="0 0 340 200" xmlns="http://www.w3.org/2000/svg">',
         f'<title id="title">{title}</title>',
         '<desc id="desc">Linguagens mais presentes nos repositórios públicos</desc>',
-        '<rect x="1" y="1" width="493" height="198" rx="10" fill="#081B2B" stroke="#2E5D62"/>',
-        '<style>text{font-family:Segoe UI,Ubuntu,Helvetica Neue,sans-serif}.title{font-size:22px;font-weight:600;fill:#D9B38C}.label{font-size:14px;font-weight:600;fill:#8FD3D0}</style>',
-        f'<text x="28" y="42" class="title">{title}</text>',
+        '<rect x="1" y="1" width="338" height="198" rx="10" fill="#081B2B" stroke="#2E5D62"/>',
+        '<style>text{font-family:Segoe UI,Ubuntu,Helvetica Neue,sans-serif}.title{font-size:21px;font-weight:600;fill:#D9B38C}.label{font-size:11px;font-weight:600;fill:#8FD3D0}</style>',
+        f'<text x="20" y="38" class="title">{title}</text>',
     ]
 
-    cx, cy, radius = 365, 108, 65
+    cx, cy, radius = 264, 108, 58
     current = 0.0
     for index, (language, amount) in enumerate(languages.items()):
         sweep = amount / total * 360
@@ -96,15 +96,15 @@ def render_card(languages: dict[str, int]) -> str:
             parts.append(f'<path d="{arc_path(cx, cy, radius, current, end)}" fill="{color}"/>')
         current = end
 
-    parts.append(f'<circle cx="{cx}" cy="{cy}" r="34" fill="#081B2B"/>')
-    legend_y = 76
+    parts.append(f'<circle cx="{cx}" cy="{cy}" r="30" fill="#081B2B"/>')
+    legend_y = 68
     for index, (language, amount) in enumerate(languages.items()):
         color = PALETTE[index % len(PALETTE)]
         percentage = amount / total * 100
         safe_language = html.escape(language)
-        parts.append(f'<rect x="28" y="{legend_y - 11}" width="16" height="16" rx="2" fill="{color}"/>')
-        parts.append(f'<text x="54" y="{legend_y + 2}" class="label">{safe_language} · {percentage:.1f}%</text>')
-        legend_y += 23
+        parts.append(f'<rect x="20" y="{legend_y - 9}" width="13" height="13" rx="2" fill="{color}"/>')
+        parts.append(f'<text x="42" y="{legend_y + 2}" class="label">{safe_language} · {percentage:.1f}%</text>')
+        legend_y += 22
 
     parts.append("</svg>")
     return "".join(parts) + "\n"
