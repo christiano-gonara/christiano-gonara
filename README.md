@@ -1,20 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9B38C&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=17F77D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christiano+Gonara;Seja+bem-vindo+ao+meu+perfil;Estudante+de+Engenharia+de+Software+na+PUC+Minas" alt="Apresentação de Christiano Gonara"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=D9B38C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Christiano+Gonara;Seja+bem-vindo+ao+meu+perfil;Estudante+de+Engenharia+de+Software+na+PUC+Minas" alt="Apresentação de Christiano Gonara"/>
 </p>
 
 <p align="center">
   <b>Estudante de Engenharia de Software | Backend, dados e aplicações web</b>
 </p>
 
-<p align="justify">
-Graduando pela PUC Minas, com projetos em Java, Python, C e JavaScript. Tenho interesse em desenvolvimento de software, APIs, dados e automação. Também atuo na coordenação de mentoria acadêmica.
-</p>
-
 ## 🖥 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,c,html,css,js,sqlite,postgres,git,github,vscode,linux,windows&perline=8" alt="Java, Spring, Python, Flask, C, HTML, CSS, JavaScript, SQLite, PostgreSQL, Git, GitHub, VS Code, Linux e Windows"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,c,html,css,js,sqlite,postgres,git,github,vscode,linux,windows&perline=8&theme=light" alt="Java, Spring, Python, Flask, C, HTML, CSS, JavaScript, SQLite, PostgreSQL, Git, GitHub, VS Code, Linux e Windows"/>
 </p>
 
 ## 🚀 Projetos em destaque
@@ -40,15 +36,15 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
   <table>
     <tr>
       <td>
-        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=github_dark"/>
+        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=brown"/>
       </td>
       <td>
-        <img alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiano-gonara&theme=github_dark"/>
+        <img alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiano-gonara&theme=brown"/>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=christiano-gonara&color=17F77D"/>
+        <img alt="Visitas ao perfil" src="https://komarev.com/ghpvc/?username=christiano-gonara&color=D9B38C&label=visitas"/>
       </td>
     </tr>
   </table>
@@ -91,17 +87,17 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
     <tr>
       <td>
         <a href="https://github.com/christiano-gonara" target="_blank" rel="noreferrer">
-          <img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50" height="50" alt="GitHub"/>
+          <img src="https://img.shields.io/badge/GitHub-2E5D62?style=for-the-badge&logo=github&logoColor=F2E3CF" width="100" alt="GitHub"/>
         </a>
       </td>
       <td>
         <a href="mailto:christiano.gonara@gmail.com">
-          <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50" height="50" alt="Email"/>
+          <img src="https://img.shields.io/badge/Email-4F8F8B?style=for-the-badge&logo=gmail&logoColor=F2E3CF" width="100" alt="Email"/>
         </a>
       </td>
       <td>
         <a href="https://www.linkedin.com/in/christiano-gonara" target="_blank" rel="noreferrer">
-          <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50" height="50" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/LinkedIn-D9B38C?style=for-the-badge&logo=linkedin&logoColor=2E5D62" width="100" alt="LinkedIn"/>
         </a>
       </td>
     </tr>
@@ -110,7 +106,7 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!;Volte+sempre!;Mantenha+a+mente+focada." alt="Mensagem de agradecimento"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D9B38C&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!;Volte+sempre!;Mantenha+a+mente+focada." alt="Mensagem de agradecimento"/>
   <br>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=17F77D&height=120&section=footer" alt="Rodapé decorativo"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9B38C&height=120&section=footer" alt="Rodapé decorativo"/>
 </div>
