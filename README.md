@@ -10,7 +10,21 @@
 
 ## 🖥 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,c,html,css,js,sqlite,postgres,git,github,vscode,linux,windows&perline=8&theme=light" alt="Java, Spring, Python, Flask, C, HTML, CSS, JavaScript, SQLite, PostgreSQL, Git, GitHub, VS Code, Linux e Windows"/>
+  <img src="https://cdn.simpleicons.org/openjdk/4F8F8B" width="50" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/spring/4F8F8B" width="50" alt="Spring"/>
+  <img src="https://cdn.simpleicons.org/python/4F8F8B" width="50" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/flask/4F8F8B" width="50" alt="Flask"/>
+  <img src="https://cdn.simpleicons.org/c/4F8F8B" width="50" alt="C"/>
+  <img src="https://cdn.simpleicons.org/html5/4F8F8B" width="50" alt="HTML"/>
+  <img src="https://cdn.simpleicons.org/css/4F8F8B" width="50" alt="CSS"/>
+  <img src="https://cdn.simpleicons.org/javascript/4F8F8B" width="50" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/sqlite/4F8F8B" width="50" alt="SQLite"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4F8F8B" width="50" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/git/4F8F8B" width="50" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/4F8F8B" width="50" alt="GitHub"/>
+  <img src="assets/vscode.svg" width="50" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/linux/4F8F8B" width="50" alt="Linux"/>
+  <img src="assets/windows.svg" width="50" alt="Windows"/>
 </p>
 
 ## 🚀 Projetos em destaque
@@ -36,10 +50,10 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
   <table>
     <tr>
       <td>
-        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=brown"/>
+        <img alt="Estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christiano-gonara&theme=nightowl"/>
       </td>
       <td>
-        <img alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiano-gonara&theme=brown"/>
+        <img alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=christiano-gonara&theme=nightowl"/>
       </td>
     </tr>
     <tr>
@@ -87,17 +101,17 @@ Crawler para coleta e filtragem de dados de e-commerce, com paginação e export
     <tr>
       <td>
         <a href="https://github.com/christiano-gonara" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-2E5D62?style=for-the-badge&logo=github&logoColor=F2E3CF" width="100" alt="GitHub"/>
+          <img src="https://cdn.simpleicons.org/github/4F8F8B" width="50" alt="GitHub"/>
         </a>
       </td>
       <td>
         <a href="mailto:christiano.gonara@gmail.com">
-          <img src="https://img.shields.io/badge/Email-4F8F8B?style=for-the-badge&logo=gmail&logoColor=F2E3CF" width="100" alt="Email"/>
+          <img src="https://cdn.simpleicons.org/gmail/4F8F8B" width="50" alt="Email"/>
         </a>
       </td>
       <td>
         <a href="https://www.linkedin.com/in/christiano-gonara" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/LinkedIn-D9B38C?style=for-the-badge&logo=linkedin&logoColor=2E5D62" width="100" alt="LinkedIn"/>
+          <img src="assets/linkedin.svg" width="50" alt="LinkedIn"/>
         </a>
       </td>
     </tr>
