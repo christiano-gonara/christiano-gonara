@@ -1,6 +1,11 @@
 name: Atualizar métricas do perfil
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/most-commit-language.svg"
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
